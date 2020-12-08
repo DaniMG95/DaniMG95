@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-muñoz-gonzalez-0107499b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/daniel-muñoz-gonzalez-0107499b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-muñoz-gonzalez-0107499b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/daniel-muñoz-gonzalez-0107499b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/brudi16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="brudi16" height="30" width="40" /></a>
 <a href="https://medium.com/@dani16595" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dani16595" height="30" width="40" /></a>
 </p>
