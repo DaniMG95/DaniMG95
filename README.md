@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Civica Software**
 
-- 🌱 I’m currently learning **Machine Learning and Big Data**
-
-- 💬 Ask me about **Machine Learning**
+- 🌱 I’m currently learning *Python Developer**
 
 - 📫 How to reach me **dani16595@gmail.com**
 
