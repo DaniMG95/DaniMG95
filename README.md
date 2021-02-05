@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Civica Software**
 
-- 🌱 I’m currently learning *Python Developer**
+- 🌱 I’m currently learning **Python Developer**
 
 - 📫 How to reach me **dani16595@gmail.com**
 
