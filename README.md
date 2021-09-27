@@ -17,8 +17,8 @@
 ## 🗂️ Highlight Projects
 
 
-<a href="https://github.com/DaniMG95/Starbucks_Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=Starbucks_Capstone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Starbucks Capstone" />
+<a href="https://github.com/DaniMG95/api-resnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=api-resnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Starbucks Capstone" />
 </a>
 
 <a href="https://github.com/DaniMG95/Disaster_Response">
