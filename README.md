@@ -21,8 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=api-resnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Starbucks Capstone" />
 </a>
 
-<a href="https://github.com/DaniMG95/Disaster_Response">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=Disaster_Response&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Disaster Response" />
+<a href="https://github.com/DaniMG95/PopulateTest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=PopulateTest&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Disaster Response" />
 </a>
 
 
