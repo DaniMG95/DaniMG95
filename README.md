@@ -25,9 +25,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=PopulateTest&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Disaster Response" />
 </a>
 
-
 <a href="https://github.com/DaniMG95/Pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=Pong&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Pong" />
+</a>
+
+<a href="https://github.com/DaniMG95/MyTopMovies">
+  <img align="center" src="https://github.com/DaniMG95/MyTopMovies" alt="MyTopMovies" />
+</a>
+
+<a href="https://github.com/DaniMG95/FlaskApiAdvance">
+  <img align="center" src="https://github.com/DaniMG95/FlaskApiAdvance" alt="FlasApiAdvanced" />
 </a>
 
 
