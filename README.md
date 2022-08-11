@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Muñoz</h1>
-<h3 align="center">I'm a Data Science, Technology and machine learning enthusiast</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
-- 🔭 I’m currently working on **Civica Software**
+- 🔭 I’m currently working on **Telefonica Aura**
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Software Engineer**
 
 - 📫 How to reach me **dani16595@gmail.com**
 
