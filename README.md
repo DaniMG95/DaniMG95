@@ -21,16 +21,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=api-resnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Starbucks Capstone" />
 </a>
 
-<a href="https://github.com/DaniMG95/BookStore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=BookStore&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="BookStore" />
+<a href="https://github.com/DaniMG95/cognitoctl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=cognitoctl&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="BookStore" />
 </a>
 
-<a href="https://github.com/DaniMG95/Pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=Pong&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Pong" />
-</a>
-
-<a href="https://github.com/DaniMG95/MyTopMovies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=MyTopMovies&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MyTopMovies" />
+<a href="https://github.com/DaniMG95/cognitopy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniMG95&repo=cognitopy&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Pong" />
 </a>
 
 <a href="https://github.com/DaniMG95/FlaskApiAdvance">
